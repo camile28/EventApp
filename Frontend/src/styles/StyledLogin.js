@@ -6,6 +6,7 @@ export const LoginContainer = styled.div`
   flex-direction: column;
   align-items: center;
   height: 60vh;
+  padding-top: 80px;
 `;
 
 export const StyledInput = styled.input`
